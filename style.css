@@ -193,6 +193,7 @@ nav a:hover {
 
 .service-content {
     padding: 0;
+    justify-content: space-around;
 }
 
 .service-content h3,
