@@ -171,6 +171,7 @@ nav a:hover {
     transition: all 0.3s ease;
     border: 1px solid rgba(0,0,0,0.05);
     padding: 2rem;
+    justify-content: space-around;
 }
 
 .service-box:hover {
@@ -193,7 +194,6 @@ nav a:hover {
 
 .service-content {
     padding: 0;
-    justify-content: space-around;
 }
 
 .service-content h3,
